@@ -1,1 +1,4 @@
-hello world\nXin chao Nguyen Van A
+hello world
+Xin chao Nguyen Van A
+Xin chao Tran Thi B
+
